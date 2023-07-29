@@ -1436,7 +1436,20 @@ summary {
 }
 
 
+.navigation_page_of_catalog {
+  display: flex;
+  flex-wrap: wrap;
+  width: 282px;
+  height: 43px;
+  border: 1px solid #EBEBEB ;
+  justify-content: space-around;
+  align-items: center;
+  // margin-bottom: 96px;
+}
 
+.page_link_catalog1 {
+  color: #EF5B70;
+}
 
 
 

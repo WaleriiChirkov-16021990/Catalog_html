@@ -1204,6 +1204,20 @@ summary::-webkit-details-marker {
   aspect-ratio: "yes";
 }
 
+.navigation_page_of_catalog {
+  display: flex;
+  flex-wrap: wrap;
+  width: 282px;
+  height: 43px;
+  border: 1px solid #EBEBEB;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.page_link_catalog1 {
+  color: #EF5B70;
+}
+
 /* =================================================================
 media */
 @media (min-width: 1241px) {
